@@ -25,7 +25,7 @@ Output: [1,2,2,3,5,6]
 ```
 
 ### Solution
-This is reaaaaaaaaaaly a easy way LOL
+This is reaaaaaaaaaaly an easy way LOL
 
 ```Python3
 class Solution:
